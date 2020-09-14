@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ToDo List на React c применением хуков. ссылка на github-pages: 
+https://vitaliilunev83.github.io/React-ToDo-List/
 
 ## Available Scripts
 
